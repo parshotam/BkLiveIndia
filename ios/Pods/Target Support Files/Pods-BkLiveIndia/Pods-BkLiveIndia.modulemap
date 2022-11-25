@@ -1,0 +1,6 @@
+module Pods_BkLiveIndia {
+  umbrella header "Pods-BkLiveIndia-umbrella.h"
+
+  export *
+  module * { export * }
+}
